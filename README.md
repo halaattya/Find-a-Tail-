@@ -70,7 +70,9 @@ hala/
 
 
 
-## Notes
+Contact
+Hala Atiyeh
 
-- Default DB credentials are XAMPP defaults (`root` / no password) — update `db.php` before deploying
-- Admin access is role-based; set `role = 'admin'` directly in the database for an admin account
+linkedin.com/in/halaattya
+
+hala.attya.2004@gmail.com 
