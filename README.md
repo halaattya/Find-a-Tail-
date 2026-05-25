@@ -3,8 +3,7 @@
 
 
 A PHP-based web application that connects families with pets available for adoption. Users can browse pets, submit adoption requests, and track their application status. Admins can manage listings and approve or reject requests.
-
-
+ 
 ## Features
 
 - **Pet Listings** — Browse available pets with photos and details
